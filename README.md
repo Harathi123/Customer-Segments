@@ -5,8 +5,13 @@ In this project we will apply unsupervised learning techniques on product spendi
 
 # Software requirements
 This project uses the following software and Python libraries:
+
 	•	Python 2.7
+	
 	•	NumPy
+	
 	•	pandas
+	
 	•	scikit-learn (v0.17)
+	
 	•	matplotlib
